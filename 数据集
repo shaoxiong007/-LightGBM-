@@ -1,0 +1,4 @@
+Yelp数据集地址为：https://www.yelp.com/dataset/documentation/main
+（1）第一步：在上面地址下载文件，并解压得到一个名为“yelp_dataset”文件。
+（2）第二步：名为“yelp_dataset”文件无法直接使用，还需要更改文件名，并添加.zip后缀,然后解压，得到一些JSOn文件，和一个说明文件。
+（3）第三步：挑选“yelp_academic_dataset_review.json”文件，其中存储800万条用户评论
